@@ -12,4 +12,4 @@
         mail("slimani.med1982@gmail.com", "Contact du site", "kjqkkljshfkjlqhjkfhjkazehfkjhjaez");
     ?>
 </body>
-</html
+</html>
