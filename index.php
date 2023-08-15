@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    Bonjour tout le monde
     <?php
         mail("slimani.med1982@gmail.com", "Contact du site", "kjqkkljshfkjlqhjkfhjkazehfkjhjaez");
     ?>
